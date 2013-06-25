@@ -17,6 +17,10 @@ class Weather
     ((@temp - 32) * FIVE_OVER_NINE).to_i
   end
   
+  def temp_in_celsius_text
+    temp_in_celsius.to_s + "°"
+  end
+  
   def self.parse(json_str)
     json      = BW::JSON.parse(json_str)
     data      = json['query']['results']['channel']

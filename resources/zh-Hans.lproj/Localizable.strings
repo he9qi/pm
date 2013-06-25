@@ -3,4 +3,29 @@
 "service"  = "家政服务";
 "rent"     = "房屋租售";
 "feedback" = "业主反馈";
-"merchants"= "周边服务";
+"merchant" = "周边服务";
+"month"    = "月";
+
+"power"    = "电费";
+"water"    = "水费";
+"gas"      = "气费";
+"property" = "物管费";
+
+"Monday"    = "星期一";
+"Tuesday"   = "星期二";
+"Wednesday" = "星期三";
+"Thursday"  = "星期四";
+"Friday"    = "星期五";
+"Saturday"  = "星期六";
+"Sunday"    = "星期日";
+
+"1 and 6"  = "1 和 6";
+"2 and 7"  = "2 和 7";
+"3 and 8"  = "3 和 8";
+"4 and 9"  = "4 和 9";
+"5 and 0"  = "5 和 0";
+
+"none"     = "无";
+"Weekday of today is"    = "今天是";
+"Car number limited is " = "车辆限号为: ";
+"Today's temperature: "  = "今日温度：";
